@@ -1,0 +1,13 @@
+{
+  "name": "HoneyLabs",
+  "short_name": "HoneyLabs",
+  "description": "Pre-Public Threat Intelligence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#00d2ff",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
